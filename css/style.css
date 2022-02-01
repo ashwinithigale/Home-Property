@@ -1332,7 +1332,7 @@ img {
   display: inline;
   float: left;
   position: relative;
-  min-height: 400px;
+  min-height: 500px;
   width: 100%;
 }
 #aa-property-header::before {
